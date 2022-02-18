@@ -1,0 +1,5 @@
+- 👋 Hey! I'm Mario.
+- 👦🏻 Started programming at age 12, never stopped since.
+- 🛠 I love working with **Swift**, **TypeScript** and sometimes **Rust**.
+- 🏠 Living in **Seville, Spain**.
+- 😄 My pronouns are **he/him**.
